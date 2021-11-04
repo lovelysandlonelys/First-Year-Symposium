@@ -1,7 +1,7 @@
 //********************************************************************
 // Names: Savannah Stephenson, 
 // 		  Janavi Bhalal,
-//  	  Alicia Mares,
+//  	          Alicia Mares,
 // 		  Emmali Padron,
 // 		  Abrielle Jackson
 // Class: UNIV 1101 First Year Seminar
